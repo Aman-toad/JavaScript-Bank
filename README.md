@@ -34,7 +34,7 @@ This project simulates a basic banking system, providing features like:
 2. open index.html
 
 ## Link for the website
-**Link** [page link](https://github.com/Aman-toad/JavaScript-Bank/)
+**Link** [page link](https://aman-toad.github.io/JavaScript-Bank/)
 
 make sure to Star the project
 Feel free to adapt the content to your specific needs! Let me know if you'd like further guidance with uploading it to GitHub.
